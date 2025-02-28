@@ -42,15 +42,15 @@ OADAT:\
 #Python implementation for retrieving all the images of SCD: PA_OmniNet_all_images_SCD.py\
 #Python implementation for retrieving numerical results for the OADAT datasets on the PA OmniNet for SWFD Semi, SWFD Multi and MSFD: PA_OmniNet_testing.py\
 #Python implementation for retrieving numerical results for the OADAT datasets on the PA OmniNet for SCD: PA_OmniNet_testing_SCD.py\
-#Python implementation for  retrieving all the images of the OADAT sub-datasets on the U-net: Unet_all_images.py\
+#Python implementation for  retrieving all the images of the OADAT sub-datasets on the U-net: Unet_all_images.py
 
 
 Backend models: \
 #Python implementation for PA OmniNet testing model: testing_model.py\
-#Python implementation for U-net backbone: unet1.py\
+#Python implementation for U-net backbone: unet1.py
 
 
-#Environment install: environment.yml\
+#Environment install: environment.yml
 
 
 
