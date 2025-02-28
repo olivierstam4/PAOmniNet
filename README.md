@@ -25,10 +25,10 @@ App: \
 
 Helper functions:\
 #Python implementation for helper functions around all files: helper_functions.py\
-#Python implementation for testing functions in evaluation files: testing_functions.py\
+#Python implementation for testing functions in evaluation files: testing_functions.py
 
 Mice:\
-#Python implementation for training the U-nets on the Mice data: Mouse_unet.py\
+#Python implementation for training the U-nets on the Mice data: Mouse_unet.py
 
 OADAT:\
 #Python implementation for training PA OmniNet on SWFD Semi, SWFD Multi and MSFD: PA_OmniNet_training.py\
