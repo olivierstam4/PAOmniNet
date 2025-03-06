@@ -22,6 +22,7 @@ The codes for visualizing the results for the various datasets are given below:
 #Jupyter notebook implementation for evaluating the mice sub-datasets: generalevalmice.ipynb\
 #Jupyter notebook implementation for creating figures for the mice sub-datasets: Thesisimgmice.ipynb
 
+# App
 The code to build and try out the app are given here:
 
 App: \
