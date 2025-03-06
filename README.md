@@ -64,6 +64,7 @@ Backend models: \
 #Python implementation for PA OmniNet testing model: testing_model.py\
 #Python implementation for U-net backbone: unet1.py
 
+# Installation of the environment 
 
 #Environment install: environment.yml
 
