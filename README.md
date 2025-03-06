@@ -12,7 +12,7 @@ Please cite this if you find these codes helpful in your work.
 * Authors contributed equally
 
 [//]: # (**The raw measurement data for the experimental experiments is not provided and can be requested.)
-**Please contact if you find any mistakes or if you need any help regarding the codes.
+**Please contact if you find any mistakes or if you need any help regarding the codes. The codes for installation of environement, running the experiments, along with visualization and running the app are provided below for the users.
 
 The codes for visualizing the results for the various datasets are given below:
 
